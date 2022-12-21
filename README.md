@@ -4,6 +4,8 @@ Hi 👋 My name is Raj Nori
 Full stack web developer
 ------------------------
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 I am a full stack developer who loves React and enjoys problem solving.
 
 * 🌍  I'm based in Melbourne
