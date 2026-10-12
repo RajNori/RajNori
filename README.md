@@ -11,8 +11,6 @@ I am a full stack developer who loves React and enjoys problem solving.
 * 🌍  I'm based in Melbourne
 * 🖥️  See my portfolio at [www.rajnori.net](http://www.rajnori.net/)
 * ✉️  You can contact me at [contact@rajnori.com](mailto:contact@rajnori.com)
-* 🚀  I'm currently working on [Projectios](http://projectiosx.herokuapp.com/)
-* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills | Tech stack
